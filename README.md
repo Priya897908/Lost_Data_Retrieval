@@ -4,9 +4,7 @@ It refers to the professional process of recovering lost, corrupted, or inaccess
 
 
 
-
-
-Key Features
+**Key Features**
 
 
 Comprehensive Data Recovery: Capable of retrieving lost data from various storage devices, including hard drives, SSDs, and USB drives.
@@ -17,8 +15,7 @@ Modular Design: Built with a modular structure, allowing easy customization and 
 
 
 
-
-Technical Details
+**Technical Details**
 Python: The primary language used due to its flexibility and rich ecosystem of libraries.
 Recoverpy: Specialized data recovery library providing core recovery functionalities for the project.
 Textual: Asynchronous framework utilized to develop the terminal-based user interface, offering a modern approach to building interactive applications.
